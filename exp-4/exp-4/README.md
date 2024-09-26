@@ -54,4 +54,4 @@ Booking Page:
 
 Allows users to book an appointment by selecting their preferred service, entering their name, and choosing a date. After clicking "Book Now," a confirmation message is shown with the booking details.
 
-GITHUB REL:(https://github.com/guna-dhamothiran/UID/tree/main/exp-4/exp-4)
+GITHUB URL:(https://github.com/guna-dhamothiran/UID/tree/main/exp-4/exp-4)
