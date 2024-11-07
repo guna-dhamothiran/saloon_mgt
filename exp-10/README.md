@@ -1,3 +1,29 @@
+# My Auth App
+
+A simple React-based user authentication system that includes login and signup functionality with interactive UI/UX design.
+
+## Features
+- **Login and Signup Forms**: Both forms include email and password fields with form validation.
+- **Interactive Design**: Hover and focus effects for inputs and buttons for an engaging user experience.
+- **Responsive Layout**: Optimized for both desktop and mobile devices.
+
+## Project Structure
+my-auth-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Login.js
+│   │   ├── Signup.js
+│   │   └── App.js
+│   ├── styles/
+│   │   └── App.css
+│   └── index.js
+├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE (optional)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
