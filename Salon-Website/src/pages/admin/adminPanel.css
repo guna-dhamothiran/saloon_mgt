@@ -1,0 +1,28 @@
+.admin-panel {
+    display: flex;
+}
+
+.admin-nav {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+.admin-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.booking-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.booking-table th, .booking-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.booking-table th {
+    background-color: #f4f4f4;
+}
