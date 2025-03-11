@@ -26,7 +26,7 @@
   <p align="center">
     Full Stack Web Application for Hair Salon
     <br />
-    <a href="https://salonweb.vercel.app/">View Live</a>
+    <a href="https://uid-chi.vercel.app/">View Live</a>
   </p>
 </p>
 
